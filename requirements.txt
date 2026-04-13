@@ -1,0 +1,16 @@
+langchain>=0.2.0
+langgraph>=0.1.0
+openai>=1.30.0
+anthropic>=0.25.0
+chromadb>=0.4.0
+python-dotenv>=1.0.0
+pydantic>=2.0.0
+yfinance>=0.2.36
+tenacity>=8.2.0
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+rich>=13.0.0
+langchain-openai
+langchain-chroma
+langchain-text-splitters
+langchain-groq

@@ -1,0 +1,25 @@
+{
+    "name": "sec_filing_search",
+    "description": "Retrieves SEC filings from EDGAR.",
+    "parameters": {
+        "type": "object",
+        "properties": {
+            "ticker": {
+                "type": "string",
+                "description": "The stock ticker symbol."
+            },
+            "filing_type": {
+                "type": "string",
+                "description": "The type of SEC filing (e.g., 10-K, 10-Q)."
+            },
+            "year": {
+                "type": "integer",
+                "description": "The year of the filing."
+            }
+        },
+        "required": [
+            "ticker",
+            "filing_type"
+        ]
+    }
+}

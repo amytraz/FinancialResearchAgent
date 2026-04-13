@@ -1,0 +1,43 @@
+{
+  "ticker": "GOOGL",
+  "date": "2026-04-14",
+  "recommendation": "NEUTRAL",
+  "confidence": "LOW",
+  "executive_summary": "Alphabet Inc. is a multinational conglomerate specializing in Internet-related services and products. The company's financial position is strong, with a market capitalization of $3.86 trillion and a net income of $132.17 billion in the trailing 12 months.",
+  "current_price": 319.425,
+  "intrinsic_value_per_share": 192.25,
+  "margin_of_safety_pct": -39.81,
+  "valuation_label": "OVERVALUED",
+  "pe_ratio": 29.521719,
+  "forward_pe": 23.779655,
+  "eps_ttm": 10.82,
+  "revenue_b": 402.84,
+  "net_income_b": 132.17,
+  "profit_margin_pct": 32.81,
+  "revenue_growth_pct": 18.0,
+  "roe_pct": 35.71,
+  "debt_to_equity": 16.133,
+  "beta": 1.128,
+  "analyst_target_mean": 375.9325,
+  "upside_pct": 17.69,
+  "data_warnings": [
+    "⚠️  SUSPICIOUS: Debt-to-equity ratio = 16.13x (exceeds 5.0x threshold). Verify from balance sheet."
+  ],
+  "risks": [
+    "Financial Risk",
+    "Business Risk",
+    "Macro/Regulatory Risk",
+    "Valuation Risk"
+  ],
+  "bull_case": "The company's strong financials, growing revenue, and increasing adoption of AI and machine learning technologies make it an attractive investment opportunity.",
+  "bear_case": "The company's high debt-to-equity ratio, dependence on advertising revenue, and competitive landscape in the digital advertising market pose a risk to the company's financials and growth prospects.",
+  "investment_thesis": "The company's intrinsic value is higher than its current market price, indicating a potential upside.",
+  "rationale": "Stock is overvalued (MoS=-39.8% < -20.0%). Fundamentals do not show critical weakness warranting BEARISH.",
+  "data_sources": [
+    "SEC EDGAR (Tier 1)",
+    "Yahoo Finance / yfinance (Tier 3)",
+    "ARA-1 DCF Model"
+  ],
+  "engine_contradictions": [],
+  "enforced_override": true
+}

@@ -1,0 +1,15 @@
+# Ignore the virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# Ignore secret keys (CRITICAL)
+.env
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore local database files
+*.db
+memory/chroma_data/

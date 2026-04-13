@@ -1,0 +1,45 @@
+{
+  "ticker": "TSLA",
+  "date": "2026-04-13",
+  "recommendation": "BEARISH",
+  "confidence": "LOW",
+  "executive_summary": "Tesla, Inc. is a multinational corporation that designs, manufactures, and sells electric vehicles, solar panels, and energy storage products.",
+  "current_price": 348.95,
+  "intrinsic_value_per_share": 25.32,
+  "margin_of_safety_pct": -92.74,
+  "valuation_label": "OVERVALUED",
+  "pe_ratio": 323.10184,
+  "forward_pe": 127.69236,
+  "eps_ttm": 1.08,
+  "revenue_b": 94.83,
+  "net_income_b": 3.79,
+  "profit_margin_pct": 4.0,
+  "revenue_growth_pct": -3.1,
+  "roe_pct": 4.93,
+  "debt_to_equity": 17.763,
+  "beta": 1.915,
+  "analyst_target_mean": 416.15024,
+  "upside_pct": 19.26,
+  "data_warnings": [
+    "⚠️  SUSPICIOUS: Debt-to-equity ratio = 17.76x (exceeds 5.0x threshold). Verify from balance sheet.",
+    "⚠️  BUSINESS RISK: Negative revenue growth (-3.1% YoY). Contraction phase confirmed.",
+    "⚠️  VALUATION FLAG: P/E ratio = 323.1x (>100x). Growth priced in aggressively. Significant premium to market."
+  ],
+  "risks": [
+    "Financial Risk",
+    "Business Risk",
+    "Macro/Regulatory Risk",
+    "Valuation Risk"
+  ],
+  "bull_case": "Insufficient undervaluation to construct a strong bull case.",
+  "bear_case": "The company's high debt-to-equity ratio and declining profitability make it vulnerable to a decline in the stock price. Additionally, the increasing competition in the electric vehicle market and the potential impact of government policies on the industry could further exacerbate the company's financial position.",
+  "investment_thesis": "The company's high debt-to-equity ratio, declining profitability, and overvaluation make it a high-risk investment opportunity.",
+  "rationale": "Stock is overvalued (MoS=-92.7% < -20.0%) AND fundamentals are weak (Elevated D/E ratio (17.8x > 5.0x threshold); Negative revenue growth (-3.1%)).",
+  "data_sources": [
+    "SEC EDGAR (Tier 1)",
+    "Yahoo Finance / yfinance (Tier 3)",
+    "ARA-1 DCF Model"
+  ],
+  "engine_contradictions": [],
+  "enforced_override": true
+}

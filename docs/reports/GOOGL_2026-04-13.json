@@ -1,0 +1,43 @@
+{
+  "ticker": "GOOGL",
+  "date": "2026-04-13",
+  "recommendation": "NEUTRAL",
+  "confidence": "LOW",
+  "executive_summary": "Alphabet Inc. is a multinational conglomerate specializing in Internet-related services and products.",
+  "current_price": 319.15,
+  "intrinsic_value_per_share": 192.25,
+  "margin_of_safety_pct": -39.76,
+  "valuation_label": "OVERVALUED",
+  "pe_ratio": 29.496304,
+  "forward_pe": 23.759184,
+  "eps_ttm": 10.82,
+  "revenue_b": 402.84,
+  "net_income_b": 132.17,
+  "profit_margin_pct": 32.81,
+  "revenue_growth_pct": 18.0,
+  "roe_pct": 35.71,
+  "debt_to_equity": 16.133,
+  "beta": 1.128,
+  "analyst_target_mean": 375.9325,
+  "upside_pct": 17.79,
+  "data_warnings": [
+    "⚠️  SUSPICIOUS: Debt-to-equity ratio = 16.13x (exceeds 5.0x threshold). Verify from balance sheet."
+  ],
+  "risks": [
+    "High debt-to-equity ratio and high interest coverage ratio.",
+    "High dependence on Google Search and YouTube revenue, and increasing competition in the cloud computing market.",
+    "Uncertainty around regulatory changes and potential impact on the company's business.",
+    "High P/E ratio and premium to intrinsic value."
+  ],
+  "bull_case": "Insufficient undervaluation to construct a strong bull case.",
+  "bear_case": "Key downside risks include a decline in Google Search and YouTube revenue, increased competition in the cloud computing market, and regulatory changes that negatively impact the company's business.",
+  "investment_thesis": "The company's high debt-to-equity ratio, high P/E ratio, and premium to intrinsic value indicate a bearish recommendation.",
+  "rationale": "Stock is overvalued (MoS=-39.8% < -20.0%). Fundamentals do not show critical weakness warranting BEARISH.",
+  "data_sources": [
+    "SEC EDGAR (Tier 1)",
+    "Yahoo Finance / yfinance (Tier 3)",
+    "ARA-1 DCF Model"
+  ],
+  "engine_contradictions": [],
+  "enforced_override": true
+}
