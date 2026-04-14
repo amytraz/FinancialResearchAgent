@@ -1,4 +1,4 @@
-<img width="1919" height="856" alt="image" src="https://github.com/user-attachments/assets/dc478d45-33a5-4785-b677-4a7349215bcc" /># 🤖 Autonomous Financial Research Agent (ARA-1)
+# 🤖 Autonomous Financial Research Agent (ARA-1)
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -122,7 +122,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## SCreenshots
 <img width="1919" height="856" alt="image" src="https://github.com/user-attachments/assets/da2bf1e0-aa49-45ed-8413-466e84a7e25c" />
-<img width="1917" height="860" alt="image" src="https://github.com/user-attachments/assets/335c6166-1b03-4c09-b464-3c25b3a1acd0" />
+<img width="1919" height="856" alt="image" src="https://github.com/user-attachments/assets/dc478d45-33a5-4785-b677-4a7349215bcc" />
 
 
 
